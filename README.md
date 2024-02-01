@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**IvanFarfan08/IvanFarfan08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ivan. I'm a Software Engineering major @ Stevens Instititute of Technology and a self-taught 3D Modeler.
 
-Here are some ideas to get you started:
+```javascript
+const Ivan = {
+  age: 19, 
+  interests: ['Machine Learning', 'Backend Development', 'Game Development', '3D Modeling'], 
+  roles: ['Software Engineer', '3D Modeler']
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log(Ivan);
+```
+## 💻 Tech Stack
+**Languages:**
+
+[![Languages](https://skillicons.dev/icons?i=python,js,java,cpp,swift&theme=dark)](https://skillicons.dev)
+
+**Frameworks:**
+
+[![Frameworks](https://skillicons.dev/icons?i=react,pytorch,flask&theme=dark)](https://skillicons.dev)
+
+**Tools:**
+
+[![Tools](https://skillicons.dev/icons?i=vscode,eclipse,figma,github,blender&theme=dark)](https://skillicons.dev)
+
