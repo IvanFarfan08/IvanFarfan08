@@ -16,7 +16,7 @@ console.log(Ivan);
 
 [![Languages](https://skillicons.dev/icons?i=python,js,java,cpp,swift&theme=dark)](https://skillicons.dev)
 
-**Frameworks:**
+**Frameworks / Libraries:**
 
 [![Frameworks](https://skillicons.dev/icons?i=react,pytorch,flask&theme=dark)](https://skillicons.dev)
 
