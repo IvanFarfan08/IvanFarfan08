@@ -4,7 +4,7 @@ I'm Ivan. I'm a Software Engineering major @ Stevens Instititute of Technology a
 
 ```javascript
 const Ivan = {
-  age: 19, 
+  age: 20, 
   interests: ['Machine Learning', 'Backend Development', 'Game Development', '3D Modeling'], 
   roles: ['Software Engineer', '3D Modeler']
 };
